@@ -2,11 +2,14 @@
 			DEPARTAMENTO DE CIENCIAS DE LA COMPUTACION
 		    INGENIERA DE SOFTWARE
 		                
-			AUTORES:    Luca Manuel de Veintemilla - lmde2@espe.edu.ec
-						Kevin Alexander Vargas - kavargas7@espe.edu.ec
-						#Grupo 12
-			FECHA DE CREACION:        27-06-2022 	
-			FECHA DE MODIFICACION:    27-06-2022*/
+			AUTORES:   Sebastian Paucar 
+					   Matthew Salazar
+					   Danilo Widinson
+					   Sebastian Solano 
+					   Cristian Felix 
+			FECHA DE CREACION:        20-12-2022 	
+			FECHA DE MODIFICACION:    21-12-2022*/
+#pragma once 
 #pragma once 
 #include <iostream>
 #include "Nodo.h"
