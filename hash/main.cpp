@@ -16,8 +16,8 @@ int main()
     do
     {
         system("cls");
-        cout << "[1] Insertar String" << endl;
-        cout << "[2] Insertar Entero" << endl;
+        //cout << "[1] Insertar String" << endl;
+        cout << "[1] Insertar Entero" << endl;
         cout << "[3] Eliminar" << endl;
         cout << "[4] Buscar" << endl;
         cout << "[5] Mostrar" << endl;
@@ -26,7 +26,7 @@ int main()
         cin >> op;
         switch (op)
         {
-        case 1:
+        case 2:
         	do
             {
                 cout << "Ingrese una letra" << endl;
@@ -37,7 +37,7 @@ int main()
             } while (opcion == "s");
             break;
            
-        case 2:
+        case 1:
 			 do
             {
              cout << "Ingrese un numero: " << endl;
