@@ -1,0 +1,6 @@
+﻿  List.cpp
+  Lists.cpp
+  Menu.cpp
+C:\Matthew 2022-2023\Estructuras\List\List\List\Menu.cpp(18,9): warning C4101: 'option': variable local sin referencia
+  Generando código...
+  List.vcxproj -> C:\Matthew 2022-2023\Estructuras\List\List\x64\Debug\List.exe
