@@ -1,0 +1,20 @@
+﻿  Control.cpp
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(17,18): warning C4838: la conversión de 'USHORT' en 'SHORT' requiere una conversión de restricción
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(17,20): warning C4838: la conversión de 'USHORT' en 'SHORT' requiere una conversión de restricción
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(121,37): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(122,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(123,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(124,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(125,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(126,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(127,38): warning C4244: 'argumento': conversión de 'double' a 'size_t'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(130,20): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(135,20): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(139,20): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(152,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(164,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(169,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(101,9): warning C4101: 'value': variable local sin referencia
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(100,13): warning C4101: 'c': variable local sin referencia
+C:\Users\david\Documents\Estructuras de datos\TallerColas\TallerColas\Control.cpp(102,9): warning C4101: 'value2': variable local sin referencia
+  TallerColas.vcxproj -> C:\Users\david\Documents\Estructuras de datos\TallerColas\x64\Debug\TallerColas.exe
